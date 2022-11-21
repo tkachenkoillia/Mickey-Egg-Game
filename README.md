@@ -1,2 +1,2 @@
-# Mickey-Egg-Game
-Mickey Egg game using javafx
+# Mickey Egg Game
+Mickey Egg game using JavaFX
